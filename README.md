@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayeed</h1>
-<h3 align="center">A Passionate ML Engineer</h3>
+<h3 align="center">A Passionate Machine Learning Engineer</h3>
 
-- 🔭 I’m currentlyly working on **Simple Python Projects Using Various Libraries**
+- 🔭 I’m currently working on **Simple Python Projects Using Various Libraries**
 
 - 🌱 I’m currently learning **ML Libraries such as Pytorch, TensorFlow, LLMs etc..**
 
